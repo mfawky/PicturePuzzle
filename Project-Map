@@ -1,0 +1,21 @@
+The Map of The Project:
+    First The Mainframes
+        [1]- Login Frame
+        [2]- Register
+        [3]- MainMenu
+        [4]- LeaderBoard
+        [5]- The Puzzle
+================================================
+    Second The Player Class
+        Player_name
+        Player_pass
+        Gender
+        Age
+        Last_Score
+================================================
+        Game Map
+            Register Values Assigned To Player Class : Username & Password Will be Recorded
+            And Check if Username If Username Is Existed Twice
+
+            THEN
+            Login Right Data -> MainMenu With [Player Class]
